@@ -1,2 +1,2 @@
 # Chess-game
-A chess game using AI-Minimax Algorithm with Alpha beta pruning 
+This chess game is built using minimax algorithm using alpha-beta pruning using material score and piece square table score in the evaluation function.
